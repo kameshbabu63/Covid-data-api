@@ -1,0 +1,9 @@
+.covid-card {
+    margin-bottom: 20px;
+  }
+  
+  .covid-card .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
